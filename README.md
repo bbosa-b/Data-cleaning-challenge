@@ -1,6 +1,6 @@
 Fifa-21 Data Cleaning - Data scraped from sofifa.com will be cleaned using several data cleaning techniques.
 
-This project involved cleaning of a very messy fifa-21 dataset from Kaggle. 
+This project involved cleaning of a very messy fifa-21 dataset in csv format from Kaggle. 
 Essential Steps for Data Cleaning:
 1. Import Necessary Libraries like Numpy, Panda, Matplotlib etc.
 2. Load the Dataset.
